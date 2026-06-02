@@ -1,0 +1,2 @@
+# SeqWordMotifMapper
+SeqWord Motif Mapper
