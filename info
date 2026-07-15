@@ -1,0 +1,38 @@
+-d	MAG
+-i	cbing_221_basemods.gff
+-g	cbing_221-8_136317.fasta
+-ft	cbing_221
+-ogf	SVG
+-dpi	600
+-m	
+-p	120
+-r	0
+-n	2
+-z	Yes
+-std	off
+-u	input
+-o	output
+-tmp	.\lib\bin\tmp
+-x	.\lib\bin
+-mm	Y
+-w	cTAG,1,-1
+-f	M
+-s	sites
+-wl	2000
+-ws	300
+-c	0
+-cmt	
+-dp	N
+-dpn	
+-dpm	
+-dpf	CcGG,2,-2
+-dpc	21
+-dpw	0
+-dps	0
+-dpt	cbing_115
+-sp	Y
+-tsk	gc, gcs, mge
+-spt	
+-t	
+-gt	
+-y	
